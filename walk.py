@@ -79,7 +79,7 @@ for x in range (1,5):
                 stepservo(righthip,mid)
                 stepservo(rightknee,mid)
 
-# rigth side
+# right side
 
         # lean right
 
